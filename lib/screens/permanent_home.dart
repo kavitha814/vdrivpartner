@@ -800,7 +800,7 @@ class _CampaignWorksWidgetState extends State<CampaignWorksWidget> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'Campaign Works',
+                          'Service Works',
                           style: TextStyle(
                             fontSize: 18,
                             fontWeight: FontWeight.bold,
@@ -1358,4 +1358,5 @@ class _CampaignWorksWidgetState extends State<CampaignWorksWidget> {
       },
     );
   }
+
 }
